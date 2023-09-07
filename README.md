@@ -1,6 +1,6 @@
 
 
-# Don't Copy this Readme file download from the repository
+# Download file from the repository
 
 ######  BEGIN cPanel-generated php ini directives, do not edit
 ######  Manual editing of this file may result in unexpected behavior.
